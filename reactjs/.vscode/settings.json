@@ -1,3 +1,4 @@
 {
-    "jest.jestCommandLine": "y"
+    "jest.jestCommandLine": "y",
+    "DockerRun.DisableDockerrc": true
 }
